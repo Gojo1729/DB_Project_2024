@@ -1,0 +1,25 @@
+04/27/2024 10:01:26 AM - INFO - start
+04/27/2024 10:01:26 AM - INFO - create random_1m_IVF_FLAT successfully
+04/27/2024 10:01:29 AM - INFO - Insert 0 costs 1.643
+04/27/2024 10:01:32 AM - INFO - Insert 1 costs 1.557
+04/27/2024 10:01:34 AM - INFO - Insert 2 costs 1.731
+04/27/2024 10:01:37 AM - INFO - Insert 3 costs 1.593
+04/27/2024 10:01:39 AM - INFO - Insert 4 costs 2.068
+04/27/2024 10:01:42 AM - INFO - Insert 5 costs 1.541
+04/27/2024 10:01:44 AM - INFO - Insert 6 costs 1.452
+04/27/2024 10:01:47 AM - INFO - Insert 7 costs 1.756
+04/27/2024 10:01:49 AM - INFO - Insert 8 costs 1.71
+04/27/2024 10:01:51 AM - INFO - Insert 9 costs 1.393
+04/27/2024 10:01:54 AM - INFO - Insert 10 costs 1.526
+04/27/2024 10:01:56 AM - INFO - Insert 11 costs 1.551
+04/27/2024 10:01:59 AM - INFO - Insert 12 costs 1.787
+04/27/2024 10:02:02 AM - INFO - Insert 13 costs 1.86
+04/27/2024 10:02:04 AM - INFO - Insert 14 costs 1.514
+04/27/2024 10:02:06 AM - INFO - Insert 15 costs 1.47
+04/27/2024 10:02:09 AM - INFO - Insert 16 costs 1.537
+04/27/2024 10:02:11 AM - INFO - Insert 17 costs 1.513
+04/27/2024 10:02:14 AM - INFO - Insert 18 costs 1.712
+04/27/2024 10:02:16 AM - INFO - Insert 19 costs 1.483
+04/27/2024 10:02:19 AM - INFO - collection entities: 1000000
+04/27/2024 10:02:47 AM - INFO - Build index costs 28.142
+04/27/2024 10:03:05 AM - INFO - collection prepare completed

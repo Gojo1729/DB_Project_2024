@@ -1,0 +1,26 @@
+04/27/2024 12:38:13 PM - INFO - Starting collection setup process...
+04/27/2024 12:38:41 PM - INFO - Starting collection setup process...
+04/27/2024 12:38:41 PM - INFO - Collection 'random_1m_IVF_SQ8' created successfully
+04/27/2024 12:38:45 PM - INFO - Insertion 0 completed in 2.365 seconds
+04/27/2024 12:38:47 PM - INFO - Insertion 1 completed in 1.431 seconds
+04/27/2024 12:38:50 PM - INFO - Insertion 2 completed in 1.412 seconds
+04/27/2024 12:38:51 PM - INFO - Insertion 3 completed in 1.23 seconds
+04/27/2024 12:38:53 PM - INFO - Insertion 4 completed in 1.193 seconds
+04/27/2024 12:38:55 PM - INFO - Insertion 5 completed in 1.231 seconds
+04/27/2024 12:38:57 PM - INFO - Insertion 6 completed in 1.248 seconds
+04/27/2024 12:38:59 PM - INFO - Insertion 7 completed in 1.337 seconds
+04/27/2024 12:39:01 PM - INFO - Insertion 8 completed in 1.251 seconds
+04/27/2024 12:39:03 PM - INFO - Insertion 9 completed in 1.255 seconds
+04/27/2024 12:39:05 PM - INFO - Insertion 10 completed in 1.316 seconds
+04/27/2024 12:39:07 PM - INFO - Insertion 11 completed in 1.202 seconds
+04/27/2024 12:39:09 PM - INFO - Insertion 12 completed in 1.23 seconds
+04/27/2024 12:39:11 PM - INFO - Insertion 13 completed in 1.188 seconds
+04/27/2024 12:39:13 PM - INFO - Insertion 14 completed in 1.169 seconds
+04/27/2024 12:39:15 PM - INFO - Insertion 15 completed in 1.434 seconds
+04/27/2024 12:39:17 PM - INFO - Insertion 16 completed in 1.388 seconds
+04/27/2024 12:39:19 PM - INFO - Insertion 17 completed in 1.346 seconds
+04/27/2024 12:39:21 PM - INFO - Insertion 18 completed in 1.302 seconds
+04/27/2024 12:39:23 PM - INFO - Insertion 19 completed in 1.246 seconds
+04/27/2024 12:39:26 PM - INFO - Number of entities in collection: 1000000
+04/27/2024 12:39:41 PM - INFO - Index build completed in 15.329 seconds
+04/27/2024 12:39:49 PM - INFO - Collection setup completed

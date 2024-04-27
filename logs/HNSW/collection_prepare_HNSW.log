@@ -1,0 +1,27 @@
+04/27/2024 10:15:49 AM - INFO - start
+04/27/2024 10:15:49 AM - INFO - create random_1m_HNSW successfully
+04/27/2024 10:15:52 AM - INFO - Insert 0 costs 1.71
+04/27/2024 10:15:54 AM - INFO - Insert 1 costs 1.776
+04/27/2024 10:15:57 AM - INFO - Insert 2 costs 1.818
+04/27/2024 10:16:00 AM - INFO - Insert 3 costs 1.774
+04/27/2024 10:16:02 AM - INFO - Insert 4 costs 1.461
+04/27/2024 10:16:04 AM - INFO - Insert 5 costs 1.423
+04/27/2024 10:16:06 AM - INFO - Insert 6 costs 1.394
+04/27/2024 10:16:09 AM - INFO - Insert 7 costs 1.421
+04/27/2024 10:16:11 AM - INFO - Insert 8 costs 1.558
+04/27/2024 10:16:13 AM - INFO - Insert 9 costs 1.419
+04/27/2024 10:16:15 AM - INFO - Insert 10 costs 1.444
+04/27/2024 10:16:18 AM - INFO - Insert 11 costs 1.688
+04/27/2024 10:16:20 AM - INFO - Insert 12 costs 1.574
+04/27/2024 10:16:23 AM - INFO - Insert 13 costs 1.477
+04/27/2024 10:16:25 AM - INFO - Insert 14 costs 1.425
+04/27/2024 10:16:27 AM - INFO - Insert 15 costs 1.551
+04/27/2024 10:16:29 AM - INFO - Insert 16 costs 1.455
+04/27/2024 10:16:31 AM - INFO - Insert 17 costs 1.379
+04/27/2024 10:16:33 AM - INFO - Insert 18 costs 1.444
+04/27/2024 10:16:36 AM - INFO - Insert 19 costs 1.407
+04/27/2024 10:16:38 AM - INFO - collection entities: 1000000
+04/27/2024 10:18:49 AM - INFO - Build index costs 130.483
+04/27/2024 10:19:05 AM - INFO - collection prepare completed
+04/27/2024 10:19:34 AM - INFO - start
+04/27/2024 10:19:34 AM - INFO - create random_1m_HNSW successfully
