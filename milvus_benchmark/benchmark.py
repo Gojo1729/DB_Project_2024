@@ -9,7 +9,6 @@ INDEX_MAPPING = {
     "FLAT": "FLAT",
     "IVF_FLAT": "IVF_FLAT",
     "IVF_SQ8": "IVF_SQ8",
-    "IVF_PQ": "IVF_PQ",
     "HNSW": "HNSW",
 }
 
